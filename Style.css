@@ -1,0 +1,14 @@
+body
+{
+    text-align: center;
+}
+
+#family_member_image
+{
+border-style:solid;
+border-color:Black;
+border: 1px;
+padding: 5px;
+width: 30%;
+height: 50%;
+}
